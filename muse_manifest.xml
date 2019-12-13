@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kitkatart.github.io/kitorinohannah" resolutions="1x" timestamp="1576270407195">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="hannah.css" crc="4017663833" ref="hannah"/>
+    <file name="historias.css" crc="3846785973" ref="historias"/>
+    <file name="artes.css" crc="44622517" ref="artes"/>
+    <file name="index.css" crc="4061537136" ref="index"/>
+    <file name="menu.css" crc="4230783510" ref="menu"/>
+    <file name="kitori.css" crc="74641370" ref="kitori"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:kitori:hannah:historias:artes"/>
+    <file name="museutils.js" crc="3803043152" ref="index:menu:kitori:hannah:historias:artes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu:kitori:hannah:historias:artes"/>
+    <file name="museconfig.js" crc="380897831" ref="index:menu:kitori:hannah:historias:artes"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:menu:kitori:hannah:historias:artes"/>
+    <file name="require.js" crc="4157109226" ref="index:menu:kitori:hannah:historias:artes"/>
+  </folder>
+  <folder name="images">
+    <file name="kitori.jpg" crc="3819912414" seo="true" ref="index:menu:kitori">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kitori" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="hannah.jpg" crc="207628623" seo="true" ref="index:menu:hannah">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hannah" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:menu:kitori:hannah:historias:artes"/>
+    <file name="u97_states.png" crc="3791030324" ref="index"/>
+    <file name="u97_states-r.png" crc="366469976" ref="index"/>
+    <file name="u97_states-m.png" crc="4096179155" ref="index"/>
+    <file name="u142-4.png" crc="4037640591" ref="menu"/>
+    <file name="u131_states.png" crc="194845506" ref="menu"/>
+    <file name="u131_states-r.png" crc="261956300" ref="menu"/>
+    <file name="u131_states-m.png" crc="4185421660" ref="menu"/>
+    <file name="u136-4.png" crc="234100538" ref="menu"/>
+    <file name="u234_states.png" crc="3791030324" ref="kitori"/>
+    <file name="u234_states-r.png" crc="366469976" ref="kitori"/>
+    <file name="u234_states-m.png" crc="4096179155" ref="kitori"/>
+    <file name="u257_states.png" crc="3791030324" ref="hannah"/>
+    <file name="u257_states-r.png" crc="366469976" ref="hannah"/>
+    <file name="u257_states-m.png" crc="4096179155" ref="hannah"/>
+    <file name="u298_states.png" crc="3791030324" ref="historias"/>
+    <file name="u298_states-r.png" crc="366469976" ref="historias"/>
+    <file name="u298_states-m.png" crc="4096179155" ref="historias"/>
+    <file name="u301_states.png" crc="3791030324" ref="artes"/>
+    <file name="u301_states-r.png" crc="366469976" ref="artes"/>
+    <file name="u301_states-m.png" crc="4096179155" ref="artes"/>
+  </folder>
+  <file name="index.html" crc="4107312032" seo="true" mt="1576270335865" redirect="true"/>
+  <file name="menu.html" crc="4002798803" seo="true" mt="1576268523487" redirect="true"/>
+  <file name="kitori.html" crc="480714410" seo="true" mt="1576265443653" redirect="true"/>
+  <file name="hannah.html" crc="4184495021" seo="true" mt="1576270318000" redirect="true"/>
+  <file name="historias.html" crc="216280762" seo="true" mt="1576265605042" redirect="true"/>
+  <file name="artes.html" crc="377253193" seo="true" mt="1576265640408" redirect="true"/>
+</manifest>
